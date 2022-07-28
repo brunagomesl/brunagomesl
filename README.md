@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunagomesl
-- 🌱 I’m currently taking the CS50: Introduction to Computer Science
+- 🌱 I’m currently taking the CS50: Introduction to Computer Science Course
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/brunagomesl/)
 
 <!---
