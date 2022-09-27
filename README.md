@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brunagomesl
 -   Analysis and systems development student
-- 🌱 I’m currently taking the CS50: Introduction to Computer Science Course
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/brunagomesl/)
 
 <!---
